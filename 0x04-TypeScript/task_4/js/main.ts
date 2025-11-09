@@ -26,3 +26,8 @@ console.log("React");
 react.setTeacher(cTeacher);
 console.log(react.getRequirements());
 console.log(react.getAvailableTeacher());
+
+["const cpp = new Cpp()"]
+"const java = new Java()"
+"const react = new React()"
+"cTeacher: Teacher"
